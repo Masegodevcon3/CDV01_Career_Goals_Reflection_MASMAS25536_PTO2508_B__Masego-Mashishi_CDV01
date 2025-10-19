@@ -19,7 +19,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 - **Name:** Masego Mashishi
 - **Date:** 19/10/2025
 - **Current Role/Position:** Software Development Student
-- **Field of Interest:** Scrum Master
+- **Field of Interest:** Scrum Master/Business Analysis
 
 ### Part 1: Self-Assessment Reflection
 
